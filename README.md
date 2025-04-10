@@ -89,7 +89,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 **Subhadeep Banerjee**
 
-Intermediate Python Developer & AI Researcher  
 🔗 [LinkedIn](https://www.linkedin.com/in/banner-subha/) | 
 
 ---
