@@ -71,13 +71,6 @@ This project leverages structured SQL queries to analyze customer demographics, 
 
 ---
 
-## 📈 Potential Extensions
-
-- Integrate Power BI or Tableau for data visualization.
-- Automate insights generation with Python or dbt.
-- Develop dashboards for sales teams and executives.
-
----
 
 ## 🤝 Contributing
 
